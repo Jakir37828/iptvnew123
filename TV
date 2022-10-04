@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://103.121.14.18/hls/indepen.m3u8
+#EXTINF:0,Channel 2
+http://103.121.14.18/hls/Sony_Aath.m3u8
+#EXTINF:0,Channel 3
+http://103.121.14.18/hls/Gazi-TV.m3u8
+#EXTINF:0,Channel 4
+http://103.121.14.18/hls/travelxp.m3u8
+#EXTINF:0,Channel 5
+http://103.121.14.18/hls/nexus.m3u8
+#EXTINF:0,Channel 6
+http://103.121.14.18/hls/channeli.m3u8
+#EXTINF:0,Channel 7
+http://103.121.14.18/hls/masranga.m3u8
+#EXTINF:0,Channel 8
+http://103.121.14.18/hls/somoy.m3u8
+#EXTINF:0,Channel 9
+http://103.121.14.18/hls/zee-bangla-cinema.m3u8
+#EXTINF:0,Channel 10
+http://103.121.14.18/hls/colore-bangla-cinema.m3u8
+#EXTINF:0,Channel 11
+http://103.121.14.18/hls/jalshamovies.m3u8
+#EXTINF:0,Channel 12
+http://103.121.14.18/hls/zeebanglahd.m3u8
+#EXTINF:0,Channel 13
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:0,Channel 14
+http://103.121.14.18/hls/starjalsha.m3u8
+#EXTINF:0,Channel 15
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:0,Channel 16
+http://103.121.14.18/hls/sangeetbangla.m3u8
+#EXTINF:0,Channel 17
+http://103.121.14.18/hls/jamuna.m3u8
+#EXTINF:0,Channel 18
+http://103.121.14.18/hls/duranta.m3u8
+#EXTINF:0,Channel 19
+http://103.121.14.18/hls/nagorik.m3u8
+#EXTINF:0,Channel 20
+http://103.121.14.18/hls/atn.m3u8
+#EXTINF:0,Channel 21
+http://103.121.14.18/hls/banglavision.m3u8
+#EXTINF:0,Channel 22
+http://103.121.14.18/hls/sonypixhd.m3u8
+#EXTINF:0,Channel 23
+http://103.121.14.18/hls/movies-now.m3u8
+#EXTINF:0,Channel 24
+http://103.121.14.18/hls/starmovies.m3u8
+#EXTINF:0,Channel 25
+http://103.121.14.18/hls/mn+.m3u8
+#EXTINF:0,Channel 26
+http://103.121.14.18/hls/animalplanent.m3u8
+#EXTINF:0,Channel 27
+http://103.121.14.18/hls/discovery.m3u8
+#EXTINF:0,Channel 28
+http://103.121.14.18/hls/ngohd.m3u8
+#EXTINF:0,Channel 29
+http://103.121.14.18/hls/wild.m3u8
+#EXTINF:0,Channel 30
+http://103.121.14.18/hls/mnx-hd.m3u8
+#EXTINF:0,Channel 31
+http://103.121.14.18/hls/axn.m3u8
+#EXTINF:0,Channel 32
+http://103.121.14.18/hls/lotus.m3u8
+#EXTINF:0,Channel 33
+http://103.121.14.18/hls/aljazeera.m3u8
+#EXTINF:0,Channel 34
+http://103.121.14.18/hls/utvaction.m3u8
+#EXTINF:0,Channel 35
+http://103.121.14.18/hls/andpictures.m3u8
+#EXTINF:0,Channel 36
+http://103.16.24.54:8080/channel6/index.m3u8
+#EXTINF:0,Channel 37
+http://103.121.14.18/hls/zeecinemahd.m3u8
+#EXTINF:0,Channel 38
+http://103.121.14.18/hls/colorscineplex.m3u8
+#EXTINF:0,Channel 39
+http://103.121.14.18/hls/stargold2hd.m3u8
+#EXTINF:0,Channel 40
+http://103.121.14.18/hls/sony-maxhd.m3u8
+#EXTINF:0,Channel 41
+http://103.121.14.18/hls/stargold.m3u8
+#EXTINF:0,Channel 42
+http://103.121.14.18/hls/dhin.m3u8
+#EXTINF:0,Channel 43
+http://103.121.14.18/hls/sonysix.m3u8
+#EXTINF:0,Channel 44
+http://103.16.24.54:8080/channel7/index.m3u8
+#EXTINF:0,Channel 45
+http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0,Channel 46
+http://103.121.14.18/hls/stersports1hd.m3u8
+#EXTINF:0,Channel 47
+http://103.121.14.18/hls/starsports2.m3u8
+#EXTINF:0,Channel 48
+http://103.121.14.18/hls/sonyten3.m3u8
+#EXTINF:0,Channel 49
+http://103.121.14.18/hls/select2.m3u8
+#EXTINF:0,Channel 50
+http://103.121.14.18/hls/sonyten2.m3u8
+#EXTINF:0,Channel 51
+http://103.121.14.18/hls/sonyten1.m3u8
+#EXTINF:0,Channel 52
+http://103.121.14.18/hls/ten.m3u8
+#EXTINF:0,Channel 53
+http://103.121.14.18/hls/ptv.m3u8
+#EXTINF:0,Channel 54
+http://37.49.224.248:8081/live/ch2/chunks.m3u8
+#EXTINF:0,Channel 55
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+#EXTINF:0,Channel 56
+http://21929815.rossteleccom.net/iptv/HS69TXA6HFWQRG/19203/index.m3u8
+#EXTINF:0,Channel 57
+http://21929815.rossteleccom.net/iptv/HS69TXA6HFWQRG/19203/index.m3u8
+#EXTINF:0,Channel 58
+http://21929815.rossteleccom.net/iptv/HS69TXA6HFWQRG/19105/index.m3u8
+#EXTINF:0,Channel 59
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:0,Channel 60
+http://103.147.87.13:8000/play/a07r/index.m3u8
+#EXTINF:0,Channel 61
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:0,Channel 62
+http://103.16.24.54:8080/channel2/index.m3u8
